@@ -10,7 +10,7 @@ It also includes a Baker window, under "Mike Da Bird > EZRecolor > Texture Baker
 
 ![image](https://github.com/MikeDaBird/EZRecolor/assets/24901068/16cb2725-3726-48f5-82f3-8f274e5cd5e9)
 
-Right now, only the Mike'Vali and general material baking are supported. Avigen is coming soon!
+Right now, the Mike'Vali and Rayvian avatar bases are supported plus general material baking. Avigen avatar base is coming soon!
 
 ---
 
