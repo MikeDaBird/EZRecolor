@@ -22,3 +22,6 @@ Creative Commons Attribution 4.0 International License.
 
 For more information about this license, see:
 http://creativecommons.org/licenses/by/4.0/
+
+
+Note that MDB_EZRecolor (being the tool itself including the new version) is under a different license. For more info, visit [ezrecolor.net/license](https://ezrecolor.net/license)
